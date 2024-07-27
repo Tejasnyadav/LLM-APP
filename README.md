@@ -4,7 +4,7 @@
 
 This Streamlit application performs sentiment analysis on YouTube video comments. It uses the Hugging Face `transformers` library for sentiment analysis and NLTK for text preprocessing. The app allows users to fetch comments from a YouTube video and analyze their sentiment.
 
-(https://your-image-hosting.com/Screenshot 2024-07-27 153541.png)  
+![App Screenshot](D:\photos\Screenshots\Screenshot 2024-07-27 153326.png)  
 
 ## Features
 
